@@ -1,4 +1,4 @@
 # Helment 
 
-Fixed stl and blend files for original design [https://www.thingiverse.com/thing:4071013]https://www.thingiverse.com/thing:4071013
+Fixed stl and blend files for original design https://www.thingiverse.com/thing:4071013
 
